@@ -21,3 +21,4 @@ Bienvenido al repositorio de **Juego 2D**, un proyecto desarrollado con [Godot E
    ```
    git clone https://github.com/Quetzal345/Juego-2D.git
    ```
+Imagenes del juego
